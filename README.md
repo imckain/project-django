@@ -1,5 +1,4 @@
 # SideBar
----
 
 SideBar is a forum like web-app that allows users to create topics, posts within those topics, and comments on the posts. 
 The idea of the sidebar is that all of your bookmarked topics are right where you need them; in the sidebar!
@@ -41,8 +40,6 @@ Unolved Problems:
 - <img src="./main_app/static/images/heroku.png" width="27"> Heroku
 - 🔐 Auth
 
----
-
 ## Wireframes 🔲
 
 ### Landing Page
@@ -67,7 +64,6 @@ Unolved Problems:
 
 ### Create Post Page
 <img src="./main_app/static/images/wireframes/createpost.png" width="600">
----
 
 ## ERD <img src="./main_app/static/images/database.png" width="27">
 
@@ -98,4 +94,3 @@ Unolved Problems:
 
 ### Post Detail Page
 <img src="./main_app/static/images/screenshots/postdetail.png" width="600">
----
