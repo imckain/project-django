@@ -5,7 +5,7 @@ SideBar is a forum like web-app that allows users to create topics, posts within
 The idea of the sidebar is that all of your bookmarked topics are right where you need them; in the sidebar!
 With full CRUD, photo upload, likes, dislikes, up and down voting we have a lot to offer a vast community of users.
 
-## Please checkus out @ [SideBar](https://sidebar-app.herokuapp.com/) 🌐
+## Please check us out @ [SideBar](https://sidebar-app.herokuapp.com/) 🌐
 
 Features:
 - User login and account creation
@@ -46,56 +46,56 @@ Unolved Problems:
 ## Wireframes 🔲
 
 ### Landing Page
-<img src="./main_app/static/images/wireframes/landing.png" width="200">
+<img src="./main_app/static/images/wireframes/landing.png" width="400">
 ---
 
 ### Index Page
-<img src="./main_app/static/images/wireframes/index.png" width="200">
+<img src="./main_app/static/images/wireframes/index.png" width="400">
 ---
 
 ### Topic Detail Page
-<img src="./main_app/static/images/wireframes/topicdetail.png" width="200">
+<img src="./main_app/static/images/wireframes/topicdetail.png" width="400">
 ---
 
 ### Create Topic Page
-<img src="./main_app/static/images/wireframes/createtopic.png" width="200">
+<img src="./main_app/static/images/wireframes/createtopic.png" width="400">
 ---
 
 ### Post Index Page
-<img src="./main_app/static/images/wireframes/post.png" width="200">
+<img src="./main_app/static/images/wireframes/post.png" width="400">
 ---
 
 ### Create Post Page
-<img src="./main_app/static/images/wireframes/createpost.png" width="200">
+<img src="./main_app/static/images/wireframes/createpost.png" width="400">
 ---
 
 ## ERD <img src="./main_app/static/images/database.png" width="27">
 
-<img src="./main_app/static/images/erd/Screen_Shot_2021-03-10_at_7.40.29_PM.png" width="200">
+<img src="./main_app/static/images/erd/Screen_Shot_2021-03-10_at_7.40.29_PM.png" width="400">
 ---
 
 ## Screenshots 📸
 
 ### Landing Page
-<img src="./main_app/static/images/screenshots/splash.png" width="200">
+<img src="./main_app/static/images/screenshots/splash.png" width="400">
 ---
 
 ### Index Page
-<img src="./main_app/static/images/screenshots/index.png" width="200">
+<img src="./main_app/static/images/screenshots/index.png" width="400">
 ---
 
 ### Topic Detail Page
-<img src="./main_app/static/images/screenshots/topicdetail.png" width="200">
+<img src="./main_app/static/images/screenshots/topicdetail.png" width="400">
 ---
 
 ### Post Index Page
-<img src="./main_app/static/images/screenshots/topicdetail.png" width="200">
+<img src="./main_app/static/images/screenshots/topicdetail.png" width="400">
 ---
 
 ### Create Post Page
-<img src="./main_app/static/images/screenshots/createpost.png" width="200">
+<img src="./main_app/static/images/screenshots/createpost.png" width="400">
 ---
 
 ### Post Detail Page
-<img src="./main_app/static/images/screenshots/postdetail.png" width="200">
+<img src="./main_app/static/images/screenshots/postdetail.png" width="400">
 ---
