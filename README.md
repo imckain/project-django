@@ -68,7 +68,6 @@ Unolved Problems:
 ## ERD <img src="./main_app/static/images/database.png" width="27">
 
 <img src="./main_app/static/images/erd/Screen_Shot_2021-03-10_at_7.40.29_PM.png" width="600">
----
 
 ## Screenshots 📸
 
