@@ -46,56 +46,56 @@ Unolved Problems:
 ## Wireframes 🔲
 
 ### Landing Page
-<img src="./main_app/static/images/wireframes/landing.png" width="400">
+<img src="./main_app/static/images/wireframes/landing.png" width="600">
 ---
 
 ### Index Page
-<img src="./main_app/static/images/wireframes/index.png" width="400">
+<img src="./main_app/static/images/wireframes/index.png" width="600">
 ---
 
 ### Topic Detail Page
-<img src="./main_app/static/images/wireframes/topicdetail.png" width="400">
+<img src="./main_app/static/images/wireframes/topicdetail.png" width="600">
 ---
 
 ### Create Topic Page
-<img src="./main_app/static/images/wireframes/createtopic.png" width="400">
+<img src="./main_app/static/images/wireframes/createtopic.png" width="600">
 ---
 
 ### Post Index Page
-<img src="./main_app/static/images/wireframes/post.png" width="400">
+<img src="./main_app/static/images/wireframes/post.png" width="600">
 ---
 
 ### Create Post Page
-<img src="./main_app/static/images/wireframes/createpost.png" width="400">
+<img src="./main_app/static/images/wireframes/createpost.png" width="600">
 ---
 
 ## ERD <img src="./main_app/static/images/database.png" width="27">
 
-<img src="./main_app/static/images/erd/Screen_Shot_2021-03-10_at_7.40.29_PM.png" width="400">
+<img src="./main_app/static/images/erd/Screen_Shot_2021-03-10_at_7.40.29_PM.png" width="600">
 ---
 
 ## Screenshots 📸
 
 ### Landing Page
-<img src="./main_app/static/images/screenshots/splash.png" width="400">
+<img src="./main_app/static/images/screenshots/splash.png" width="600">
 ---
 
 ### Index Page
-<img src="./main_app/static/images/screenshots/index.png" width="400">
+<img src="./main_app/static/images/screenshots/index.png" width="600">
 ---
 
 ### Topic Detail Page
-<img src="./main_app/static/images/screenshots/topicdetail.png" width="400">
+<img src="./main_app/static/images/screenshots/topicdetail.png" width="600">
 ---
 
 ### Post Index Page
-<img src="./main_app/static/images/screenshots/topicdetail.png" width="400">
+<img src="./main_app/static/images/screenshots/topicdetail.png" width="600">
 ---
 
 ### Create Post Page
-<img src="./main_app/static/images/screenshots/createpost.png" width="400">
+<img src="./main_app/static/images/screenshots/createpost.png" width="600">
 ---
 
 ### Post Detail Page
-<img src="./main_app/static/images/screenshots/postdetail.png" width="400">
+<img src="./main_app/static/images/screenshots/postdetail.png" width="600">
 ---
